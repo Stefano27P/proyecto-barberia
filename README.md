@@ -1,6 +1,6 @@
 # Sistema de Barberia
 
-Proyecto academico desarrollado para demostrar el uso basico de Git y GitHub.
+Proyecto académico para aplicar ramas, fusiones y conflictos con Git.
 
 ## Funcion inicial
 Mostrar un mensaje de bienvenida para una barberia.
